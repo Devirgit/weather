@@ -1,0 +1,72 @@
+{
+
+
+
+  "@@locale": "ru",  
+
+  "apptitle": "{city} Погода",
+  "@apptitle": {
+    "type": "text",
+    "placeholders": { "city":{}}
+  },
+
+  "choosetitle": "Выбор город",
+  "@choosetitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choosecity": "Название города",
+  "@choosecity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "choosebtn": "Подтвердить",
+  "@choosebtn": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+  "humidity": "Влажность: {volume} %",
+  "@humidity": {
+    "type": "text",
+    "placeholders": { "volume":{}}
+  },
+  "windspeed": "Ветер: {volume} км/ч, {direct}",
+  "@windspeed": {
+    "type": "text",
+    "placeholders": { 
+      "volume":{},
+      "direct":{}
+  }
+  },  
+  "detailtitle": "Погода на 3 дня",
+  "@detailtitle": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+
+  "datewithouttime":"{day}.{month}.{year}",
+  "@datewithouttime": {
+    "type": "text",
+    "placeholders": {
+      "day": {},
+      "month": {},
+      "year": {}
+    }
+  },
+  
+  "temperatur":"{min} / {max} ",
+  "@temperatur": {
+    "type": "text",
+    "placeholders": {
+      "min": {},
+      "max": {}
+  
+    }
+  }, 
+  "pleasewait":"Пожалуйста, подождите",
+  "@pleasewait": {
+    "type": "text",
+    "placeholders": {     
+    }
+  } 
+}

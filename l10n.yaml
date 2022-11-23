@@ -1,0 +1,5 @@
+arb-dir: assets/local
+template-arb-file: intl_ru.arb
+output-localization-file: local.dart
+output-class: Local
+preferred-supported-locales: ["ru"]
